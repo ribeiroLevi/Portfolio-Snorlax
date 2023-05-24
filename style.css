@@ -141,7 +141,7 @@ body .container {
     margin-bottom: 100px;
     padding-top: 30px;
     border-radius: 50px;
-    margin-left: 350px;
+    margin-left: 275px;
 
 }
 body .container p {
@@ -197,6 +197,10 @@ body .container .bottom button {
     width: 100px;
     height: 40px;
     font-size: 25px;
+    transition: opacity 0.15s;
+} 
+body .container .bottom button:active {
+    opacity: 0.8;
 } 
 body .container .bottom input {
     width: 310px;
@@ -205,3 +209,25 @@ body .container .bottom input {
     height: 200px;
     border-radius: 10px;
 } 
+body footer{
+    background-color: #6096AA;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+body footer img{
+    height: 70px;
+
+}
+body footer p{
+    width: 50px;
+    font-weight: 700;
+    color: #F1E5D8;
+}
+
+body footer a {
+    margin-right: 30px;
+    text-decoration: none;
+    color: #F1E5D8;   
+}
