@@ -1,0 +1,4 @@
+# ptrf_snorlax
+- Portifólio com tema de Snorlax - 
+O site é um simples portifólio "pessoal", que serviu para estudar temas como cores, flexbox, múltiplas páginas,
+e outros temas que envolvem HTML E CSS básicos. As cores utilizadas são do color scheme do personagem.
