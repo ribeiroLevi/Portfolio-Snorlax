@@ -1,4 +1,5 @@
 # Portfólio Snorlax
+Status: Concluído
 - Portfólio com tema de Snorlax - 
 O site é um simples portfólio "pessoal", que serviu para estudar temas como cores, flexbox, múltiplas páginas,
 e outros temas que envolvem HTML E CSS básicos. As cores utilizadas são do color scheme do personagem.
